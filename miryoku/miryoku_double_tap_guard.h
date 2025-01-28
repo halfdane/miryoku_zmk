@@ -16,3 +16,4 @@
     #define U_BOOT &bootloader
   #endif
 #endif
+#define U_RESET &sys_reset
