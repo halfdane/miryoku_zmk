@@ -17,3 +17,4 @@
   #endif
 #endif
 #define U_RESET &sys_reset
+#define U_STUDIO &studio_unlock
